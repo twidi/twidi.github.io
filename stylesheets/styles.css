@@ -139,7 +139,7 @@ header ul:before {
   box-shadow: rgba(0, 0, 0, 0.2) 0 -1px 0, inset rgba(255, 255, 255, 0.7) 0 -1px 0;
 }
 header ul li {
-  width: 79px;
+  width: 112px;
   float: left;
   border-right: 1px solid #3A7CBE;
   height: 38px;
@@ -166,6 +166,14 @@ header ul a {
   padding-top: 6px;
   height: 40px;
   text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
+  position: relative;
+  padding-left: 35px;
+}
+header ul a img {
+  position: absolute;
+  top: 4px;
+  left: 5px;
+  border-radius: 5px;
 }
 header ul a strong {
   font-size: 14px;
