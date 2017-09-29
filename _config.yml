@@ -1,0 +1,8 @@
+title: Twidi.GitHub.io
+description: Stuff hosted on Github.io from my "Twidi" Github account
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
