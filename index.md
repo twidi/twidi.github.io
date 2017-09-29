@@ -1,4 +1,8 @@
 
+# 2017
+
+- [Les aventuriers du packaging perdu](https://twidi.github.io/python-packaging-talk/fr) (FR, with [Joachim Jablon](http://ewjoach.im))
+
 # 2016
 
 - [Dev & QA](http://slides.com/twidi-s-angel/dev-qa/) (EN)
