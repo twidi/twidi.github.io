@@ -1,3 +1,6 @@
+# 2018
+
+- [Les outils pour améliorer votre code python](https://github.com/twidi/les-outils-pour-ameliorer-votre-code-python/) (FR)
 
 # 2017
 
