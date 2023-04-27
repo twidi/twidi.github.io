@@ -1,3 +1,7 @@
+# 2019
+
+- [Maintaning a Django project after 10k commits](https://speakerdeck.com/ewjoachim/maintaning-a-django-project-after-10k-commits) (EN, with [Joachim Jablon](http://ewjoach.im))
+
 # 2018
 
 - [Les outils pour améliorer votre code python](https://twidi.github.io/les-outils-pour-ameliorer-votre-code-python/) (FR)
@@ -12,9 +16,9 @@
 
 # 2015
 
-- [Packager un projet Django](http://twidi.github.io/django-packaging-talk/) (FR)
+- [Packager un projet Django](https://twidi.github.io/django-packaging-talk/) (FR)
 
-- [What the flux](http://twidi.github.io/what-the-flux/) (EN)
+- [What the flux](https://twidi.github.io/what-the-flux/) (EN)
 
 # 2012
 
