@@ -1,6 +1,10 @@
+# 2023
+
+- [Django et l'async: je t'aime moi non plus](https://twidi.github.io/django-async-talk) (FR)
+
 # 2019
 
-- [Maintaning a Django project after 10k commits](https://speakerdeck.com/ewjoachim/maintaning-a-django-project-after-10k-commits) (EN, with [Joachim Jablon](http://ewjoach.im))
+- [Maintaining a Django project after 10k commits](https://speakerdeck.com/ewjoachim/maintaning-a-django-project-after-10k-commits) (EN, with [Joachim Jablon](http://ewjoach.im))
 
 # 2018
 
